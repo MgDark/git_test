@@ -1,0 +1,1 @@
+This is MgDark first git project!
